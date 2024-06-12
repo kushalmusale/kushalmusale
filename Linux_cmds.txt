@@ -792,6 +792,9 @@ youtube search - mlops roadmap 2024
 Saikumar Reddy - MLOPS RoadMap 2024 | Skills Required To Become MLOPS Engineer | MLOPS Engineering RoadMap #mlops #1k 
 https://www.youtube.com/watch?v=lDPvB0AhxEc 
 
+Analytics Vidhay - MLOps Roadmap 2024 | MLOps Roadmap for Beginners 
+https://www.youtube.com/watch?v=p4EfO1n9ufU (nicely explained what is Docker)
+
 
 
 
