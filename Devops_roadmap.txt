@@ -1,0 +1,10 @@
+Linux, Python/Go, JSON, yaml, AWS, aws cli or SDK - boto3, monitoring 
+
+
+
+
+
+
+
+
+

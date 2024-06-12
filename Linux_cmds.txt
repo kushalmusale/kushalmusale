@@ -1,0 +1,812 @@
+Get yourself involved in tech communities - e.g. Devops communities (CNCF) - google search - devops communities 
+
+What is cloud fundamentals? 
+
+Be accountable to whatever you have done 
+
+How to create connections in linkedin 
+what is portfolio, how to build a good portfolio 
+
+build a strong github profile - what is github profile and how to build a strong github profile 
+
+freelance - upwork, freelancer, gigster, fiverr 
+Leetcode 
+
+shell script - log rotation code, taking backups, memory clean, user add, before 9 am disks should be free, these services should start, etc... some real time shell scripts 
+
+Github Actions 
+
+===================== 
+*** Search in youtube, google search, linkedin and github - K8S, Docker, Jenkins, AWS, Linux server, etc(other tools and technologies) related real time issues and troubleshooting 
+
+*** Search in youtube, google search, linkedin and github - K8S, Docker, Jenkins, AWS, Linux server, etc(other tools and technologies) related real time interview questions and answers 
+*** search for - Devops related real time interview questions and answers 
+====================== 
+youtube search - devops linux server related issues 
+
+How would you troubleshoot if your app is down... Server Gyan
+https://www.youtube.com/watch?v=0c7yQijKRaw 
+
+DevOps Errors & Troubleshooting | Troubleshooting in DevOps... DevOps Shack 
+https://www.youtube.com/watch?v=54dk-HcmRFg 
+====================== 
+youtube search - devops real time issues 
+LogicOps - https://www.youtube.com/playlist?list=PL8WTXLSrtyWo5qTkjyLoHn2BQ-5_N6smF 
+
+====================== 
+google search - what can devops engineer contribute to opensource 
+
+google search, youtube search - 
+What a devops engineer can contribute to opensource 
+how a devops engineer can contribute to opensource 
+
+How can you contribute to open-source DevOps tools for Cloud Computing? 
+https://www.linkedin.com/advice/0/how-can-you-contribute-open-source-devops-tools-msdxf  
+
+======================
+My Journey into Opensource and how it changed my life | 3 LPA to Top 1 percent 
+https://www.youtube.com/watch?v=IDunDTq48uI 
+
+How to contribute to open source, how to become member of open source community, what type of contributions I can make to open source like CICD projects, scripts, code, fix some issues, etc. 
+https://www.youtube.com/watch?v=wuZUnbLz2KU 
+
+*** Opensource contributions - How You Can Get a Remote Job By Open Source | 113 The Sanskar Show 
+https://www.youtube.com/watch?v=1MskmzMFw7I 
+also google - how to contribute to opensource, its repos, etc... 
+
+Wellfound (formerly AngelList Talent) - Startup Job Search
+
+Wellfound
+https://wellfound.com
+Apply privately to 130000+ remote jobs and startup jobs near you with one application. See salary and equity upfront. Find the latest tech jobs, ...
+
+Remote job portal - Flexijobs 
+*search for other remote jobs portals 
+
+Remote jobs - devops.com blogs, dice.com, indeed.com, linkedin, careerbuilder.com, simplyhired.com, hirist.com 
+
+*** youtube search - devops remote jobs 
+https://www.youtube.com/watch?v=Y1glVhCWxGo 
+linkedin, naukri, wellfound 
+instrahyre 
+Urgent Online Jobs Weebly 
+ycombinator jobs 
+searching tricks - on linkedin and twitter - search for perticular keyworks like "hiring sde share resume or CV" - *something similar with some combination - go to post - use the latest filter - you will see some CTOs, recuiters, some remotely working people post about job openings  
+join some good discord community - discord jobs - search for Discord groups 
+Tech crunch event - startups will showcase their products - search such other events - goto their profiles - create connections with people working there 
+
+*** 7 Best Remote Jobs Website 2023-24 | 40 Lakhs Base | How to get remote jobs? | Kushal Vijay 
+https://www.youtube.com/watch?v=YlMtOOZIxcU 
+RemoteCo(https://prosmarketplace.com/), remoteok, weworkremotely, flexijobs, ycombinator, justremote.co, remotive 
+https://remotebase.com/, https://www.toptal.com/, https://www.joveo.com/ 
+=======================
+Who is a Devops engineer, what is an objective of a Devops engineer, what does a devops engineer does and achieves, etc 
+
+what is Linux distributions, what is Linus flavour 
+
+Savinder Puri - Devops Roadmap playlist - https://www.youtube.com/watchv=6k7CiLMS6l4&list=PLOICeOprDHbe3NHBKR0YrOkY24qguXB1R&index=2 
+what are the new testing types in Devops world 
+Gitops, 4 characteristics of Gitops, Branching strategy 
+DB - SQL, NoSQL, How DB admins automate their DB tasks 
+ 
+Savinder Puri - 
+How I Earn Euros in India as a DevOps Evangelist | Roadmap to crack Remote DevOps Jobs in 2024 
+https://www.youtube.com/watch?v=dHEUphgXi4E 
+You don't find the remote job, the remote job should find you - how, what is the roadmap- it may take 6/12/18/24/... months and more 
+showcase your work(body of work) on github 
+start contributing to opensource projects- github, CNCF, GSoC - Google Summer of Code, hashnode, hackernoon, dev.do 
+Learn in Public - on linkedin say I am learning Ansible in 6 weeks, put your learning code in github, put is documentatio n in hashnode, everyweek post one update on linkedin - say this I have done, this is code, this is documentation(notes)  
+
+Savinder Puri - Do not do THIS DevOps | DevOps Full Roadmap 2024 ( Free Resources ) 
+*** very imp video - https://www.youtube.com/watch?v=a6d34f9c8bU 
+MLOPS/AIOPS, LLM 
+
+Devops Roadmap playlist - 
+https://www.youtube.com/watchv=6k7CiLMS6l4&list=PLOICeOprDHbe3NHBKR0YrOkY24qguXB1R&index=2 - timestamp 13:55 minutes 
+Periodic table of tools - digital.ai 
+Reference architectures - from sonatype - helps you understand what does "good devops" look like 
+Devops culture- what it is, why is it important, what does it means 
+
+*** How Ai changed my DevOps Engineer Life 100X Effective - 
+https://www.youtube.com/watch?v=AxKHzPvf4Tk&list=PLOICeOprDHbe3NHBKR0YrOkY24qguXB1R&index=4 
+3 steps - put your work(code) in github, article in hashnode or dev.io (techblogging-write the thing that you have learnt, done), put post in linkedin everyweek consistently 
+
+============================================================================ 
+123 essential cmds - medium.com 
+https://nidhiashtikar.medium.com/essential-linux-commands-every-developer-should-master-a86905726d4a 
+
+File related cmds 
+=================
+ls (ll - alias for ls -l)
+touch 
+mkdir 
+
+rm 
+rmdir 
+cp 
+scp 
+cpio (copy in copy out - used to process archived files like .cpio or .tar files)
+mv 
+File viewing cmds - cat, vi, head, tail, more, less, pg 
+cat (-b, -n, -s, -E, etc.) | cat test.txt && ls - AND operation e.g. apt update && apt upgrade 
+tac 
+pg 
+stat (metadata of a file)
+wc 
+find (find and grep cmds are used frequently) 
+locate (locate database and updatedb) 
+Simple filtering cmds - grep (difference between find and grep), cut, paste, etc 
+egrep (use to avoid escape character \)
+* how to search file using 'grep' cmd 
+sed 
+Sorting and comparing cmds - sort, uniq, cmp, diff, tr 
+cut 
+paste - Merge lines of files 
+comm 
+awk 
+column -t (displays output in column wise table - easy to read e.g. mount | column -t cmd) 
+shred myfile.txt (converts to unreadable format) 
+file 
+File types (-=regular, d=dir, special - c=chr, b=blk, l=links, s=socket, p=namedpipes) 
+patch (apply patch to files) 
+source - Execute commands from a file in the current shell 
+.bashrc file (available in /home/userdir) 
+
+Compress, Zip and Unzip related cmds 
+==================================== 
+tar and untar 
+bzip2
+gzip 
+xz 
+bunzip2 
+gunzip 
+unxz 
+zcat 
+bzcat 
+xzcat 
+zip 
+unzip 
+db 
+rsync 
+
+Directory navigation cmds 
+========================= 
+cd enter-key - 
+cd .
+cd .. (cd ../lib, cd ../../abc)
+cd ~ 
+cd - 
+cd /absolute or relative path 
+pwd 
+tree 
+pushd 
+popd 
+
+User, group and Permissions related cmds 
+========================================
+id
+last 
+whoami 
+who 
+w 
+finger ubuntu (apt install finger) 
+user (user --defaults or user -D  - explore other defaults in /etc/login.defs)
+sudo, visudo - /etc/sudoers | sudo !! 
+su(switch user) 
+wheel group  
+usermod 
+useradd 
+userdel 
+passwd 
+groups 
+groupadd 
+groupdel 
+groupmod 
+gpasswd 
+ac(All Connections) 
+stat 
+chmod 
+chown 
+chgrp 
+chage (to change user a/c pwd) 
+umask (4 digits number)
+Special permissions - suid - 4 - u+s, sgid - 2 - g+s, sticky - 1 - o+t, no special permission - 0, 6 - for both suid and guid 
+ACL(Access Control Lists) - setfacl, getfacl, remove acl, etc... 
+chattr +a, +i - lsattr - remove attr, etc. (change file and dirs attributes) 
+quota pkg (to manage disk quota for file systems)  
+usrquota, grpquota, qutoaon, quotacheck, edquota, fallocate, quotas for groups 
+
+System information related cmds 
+==============================
+uname - to see OS name or cat /etc/os-release 
+lsb-release -a 
+last reboot 
+hostname 
+hostnamectl 
+arch 
+hostid 
+reset 
+date 
+time 
+timedatectl (chrony daemon - to synchronize time/avoid time drifting or systemctl status chronyd.service) 
+cal 
+systemd 
+service 
+systemctl (start, stop, enable, disable, status, getxxx, restart, reload, reboot, poweroff, shutdown, etc.) 
+init systems, Service unit - cat sshd.service (/usr/lib/systemd/system/sshd.service) 
+systemctl --system 
+mask - systemctl mask xxx.service 
+how to create a systemd.service file 
+journalctl or dmesg 
+rsyslog - /var/log/ e.g.: to see who logged in through ssh - grep -r 'ssh' /var/log/  or /var/log/secure 
+most system log files found in - /var/log/messages file or /var/log/ dir or /var/log/syslogs 
+system-cat - this utility/cmd just logs what it receives 
+has 
+tty 
+
+Redirection cmds(Std streams) 
+================ 
+>, >> - std output stream 
+2>, 2>> - std error stream 
+< - std input stream 
+tee - Redirect output to multiple files or commands 
+
+Network info related cmds 
+========================= 
+what is listening and what is a port 
+ip a, ip -c addr 
+iplink 
+iproute 
+route 
+traceroute vs tracepath 
+iptable (has many options for port-redirection rules)
+nft 
+nmtui 
+ping 
+mtr 
+whois domainname (whois google.com) 
+curl 
+ss -ltnp 
+netstat 
+ifconfig 
+inconfig 
+iwconfig 
+ftp 
+tcpdump  
+netplan (/etc/netplan/...) 
+resolvectl status (/etc/systemd/resolved.conf) - systemctl ... resolve.service 
+ssh, sshd 
+ssh-keygen 
+telnet 
+tnc 
+nmap 
+nslookup domain  
+dig 
+nc (netcat)
+ufw status 
+firewall-cmd / firewalld 
+IP forwarding in our machine - /etc/sysctl.d/99 -sysctl.conf or /etc/sysctl.conf 
+nmcli cmd and nmtui cmd used for? 
+systemctl status NetworkManage.service(configure network services at boot) 
+arp 
+wireshark 
+ufw 
+fail2ban 
+ifup 
+ifdown 
+ifplugstatus 
+
+Chaining and piping cmds 
+======================== 
+; used to chain cmds - e.g. mkdir testdir ; cd testdir ; touch myfile.txt 
+| used to pipe cmds - output of one cmd is given as input to another cmd - e.g. ls -l | grep rpc 
+
+Process(diagnose and manage) related cmds 
+=========================================  
+ps (with and without option) e.g.: ps -a and ps a are 2 different cmds, 'ps aux' cmd 
+pstree 
+jobs - to see any pgm running in background or paused 
+lsof - to see what files/dirs what process is using right now - check the list of open files 
+pidof 
+fg
+bg 
+jobs 
+what is the character used to send a process in the background 
+kill, killall - Process signals 
+pkill 
+xkill 
+uptime 
+pgrep 
+fuser 
+nice, renice and ionice - process niceness 
+process signals - sig stop, sig kill 
+strace 
+fg - background and foregroud process 
+& - prefixed with cmd/script - sends that cmd/script run in background 
+screen
+tmux 
+zombie process 
+nohup 
+<command> & — Using in last of command runs in background, allowing you to continue using the terminal while the command runs asynchronously 
+
+Example: ./script.sh & 
+
+Monitoring System Performance 
+============================= 
+top (q - to come out of top cmd) 
+htop 
+
+Disk, Volume and File system related cmds 
+=========================================  
+lscpu (cpu related info - cat /proc/cpuinfo | memory related info - cat /proc/meminfo)
+lsblk 
+lshw 
+lscpi 
+lsusb 
+blkid 
+free or vmstat 
+sar 
+df 
+du 
+fdisk 
+fsck (to check file system for errors)
+gdisk 
+cfdisk 
+hdparm -i filesystem-name 
+mkfs 
+mount 
+unmount 
+findmnt 
+dnf and autofs (mount FS on demand) 
+dnf and nfs (mount FS on a remote server)
+dmesg 
+udevadm 
+lspci
+lsmem 
+ln (hard and soft links) 
+readlink 
+pathtolinkfile 
+swapon 
+mkswap 
+dd 
+inode 
+ulimit (configure user resources usage limits - /etc/security/limits.cong) 
+sysstat pkg - iostat, pidstat - to monitor storage performance 
+to monitor CPU & memory - top and htop cmds used 
+parted 
+
+File systems - xfs, ext2 to ext4, btrfs, swap 
+Multiple types of hard disks - hdd(harddiskdrive), ssd(solidstatedrive), nvme(nonvolatilememoryexpress) 
+
+Logical Volume Manager(LVM) 
+===========================
+pvcreate 
+vgcreate 
+pvdisplay 
+vgdisplay 
+lvcreate 
+lvdisplay 
+pvs 
+lvs 
+vgs 
+vresize 
+resize2fs 
+pvremove 
+vgextend 
+vgreduce 
+lvresize 
+
+Schedule tasks to run at a set date and time related cmds 
+========================================================= 
+cron vs crontab - /var/log/cron/ - cron job related logs  
+anacron 
+at 
+
+Packages related cmds 
+=====================
+yum, yum repolist, yum search, yum grouplist, yum install, remove, info, update, upgrade, etc...
+rpm 
+apt 
+apt-get 
+paceman 
+dpkg 
+/etc/apt/sources.list to see default pkgs configured for the system 
+/etc/apt/sources.list.d dir - create a new config file here 
+gpg - to transfer text format file to binary format that a pkg manager understands 
+curl - difference between curl and wget 
+ppa 
+make 
+pacman 
+
+History related cmds 
+==================== 
+history 
+HISTTIMEFORMAT="%y-%m-%d% %T " - displays history with time in tabular format 
+ctl r 
+! followed by a number or text - execute a previously run command
+
+Help related cmds 
+=================
+man 
+man man 
+*cmd-name --help - to get help related to that cmd with options list 
+whereis cmd_name 
+whatis cmd_name 
+apropos cmd_name 
+usr/share/doc (System documenation) - has different subdirs representing diff s/w pkg installed - has doc pages 
+info 
+vimtutor 
+pinfo 
+
+============================ 
+clear or ctl L 
+echo 
+script - stores all the executed cmds with output in a file called 'typescript' 
+env cmd or printenv - to see current user environment 
+export 
+$SHELL (bash env variable)
+which 
+wall - broadcast msg to all users 
+wget (download file) 
+type cmd_name 
+test 
+eval 
+set 
+unset 
+watch 
+xargs 
+chsh (to change shell) 
+mail 
+sendemail 
+heredoc 
+idconfig -v, idconfig -p 
+sleep 
+shutdown (at required time)
+poweroff 
+reboot 
+portage 
+
+wild cards - * ? [] - used with ls, find, cp, rm, grep etc. cmds 
+regex operators - ^ $ . * + {} ? | [] () [^] 
+escaping character - \ 
+
+Pagers - less and more 
+vi editors - vi, vim, nano 
+
+3 way to logout as a user - ctl d, exit and logout 
+alias cmd - gives list of all aliases created = syntax: somename='actual cmd'
+/dev/null - to redirect unwanted output 
+command substitution - output of one cmd used as an argument to another cmd - '   ' or $(   )
+e.g. mkdir 'date +%y+%m+%d' or mkdir $(date +%y+%m+%d) 
+
+Root user 
+========= 
+root user and non-root(normal) user 
+$(normal user) or #(root user) - is a previlage symbol 
+*prompt -> [student@localhost ~] $/# 
+student = logged in username 
+localhost = server/machine/system/host name where user is logged in 
+~ = current location of the user 
+su -, su -l, su -login 
+sudo --login, sudo -l 
+sudo passwd (lock and unlock)
+
+SELinux module (security module)
+
+SSL certificates - openssl cmd - has many subcmds - lets see 'req' and 'x509' subcmds 
+
+How to create a Reverse proxy for Nginx - first install nginx - go to file /etc/nginx/proxy-params 
+How to configure Nginx as loadbalancer - create a config file related to loadbalancer - /etc/nginx/sites-enabled/lb.conf 
+DNS server configuration 
+Database server configuration 
+Email service configuration 
+Manage RAID - mdadmin cmd 
+ 
+==========================================
+single tab - for autocomplete of a cmd which works for file and directory names 
+double tab - for autosuggestions 
+ctl c - to cancel any cmd 
+ctl c or ctl z - to stop/pause/come out of the running process 
+*ctl d - logout of a terminal or to come out of password cmd or end-of-file 
+ctl r - reverse search cmd 
+ctl x - 
+-v option - verbose option 
+Ctrl + a - Jump to the beginning of the cmd line 
+Ctrl + e - Jump to the end of the cmd line 
+CTRL + U - Delete the text from the cursor to the beginning of the line 
+CTRL + K - Delete the text from the cursor to the end of the line 
+
+google search for shortcut keys in linux 
+
+TechARKIT - Shell scripting video no. 13 
+press c - to see complete path of a cmd 
+press k - to kill processes 
+press z - to change colour 
+press n - to increase nice value 
+press l - to see no. of CPUs 
+press t & l - to increase refresh rate 
+h - help 
+q - quit 
+shift a - split screen & shift A - to come back 
+l, t, m - to hide 1st or 3 & 4 rows or 5th row 
+
+------------ 
+*** How internet works 
+
+Linux - TrainwithShubham 
+7 videos - https://www.youtube.com/watch?v=39oyFIStuaI&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=1 
+5 videos - https://www.youtube.com/playlist?list=PLlfy9GnSVerSpMjLEJKoFPTnDK8xPYtmb 
+
+=======================================
+*********** google search, youtube, github, linkedin *********** list down issues faced w.r.t. each and every Devops tools e.g. issues faced with Linux, Git, issues faced with docker, issues faced with Jenkins, issues faced with K8S, issues faced in Shell scripting, Python scripting, etc and how did you fixed it 
+
+********** google search, youtube, github, linkedin *********** scenario based interview questions and answers for experienced w.r.t. each and every Devops tools e.g. scenario based interview Q&As in Linux, Git, scenario based interview Q&As in docker, scenario based interview Q&As in Jenkins, scenario based interview Q&As in K8S, scenario based interview Q&As in Shell scripting, Python scripting, etc 
+
+youtube search - issues faced in linux server step by step 
+
+#Linux Administrator Daily Activities In English | Process Followed In 90% Of Organizations 
+https://www.youtube.com/watch?v=XBPmeghWSSI 
+
+Master Network Troubleshooting with These Top 5 Commands With Live Example |In Hindi 
+https://www.youtube.com/watch?v=k-nENIFZJ18 
+
+Linux/Unix real time scenarios and issues with their solutions In Telugu | 7Hills | Linux problems 
+https://www.youtube.com/watch?v=07LQMy9891o 
+
+10 Advanced Linux Troubleshooting Tips | How to analyse critical issues with Linux Operating System 
+https://www.youtube.com/watch?v=J73f6va-C_s 
+
+Debugging & Troubleshooting in Linux || Linux most common issues with solution 
+https://www.youtube.com/watch?v=c9_NFB7eE6Q 
+
+How to Find Logs and Troubleshoot Common Problems on a Linux Server 
+https://www.youtube.com/watch?v=9YFjQdkz9iM 
+
+Troubleshooting Linux Administration tutorial 
+https://www.youtube.com/playlist?list=PLTgRMOcmRb3M9FrQlnABO7yBiE3yRvxwW 
+================
+
+Search in youtube, google search, linkedin and github - Linux server related issues 
+
+
+
+==================== 
+youtube search - linux networking troubleshooting 
+
+Server Gyan channel - Network Troubleshooting Commands for Linux | Linux Network Commands 
+https://www.youtube.com/watch?v=t3gXEk3789s 
+
+#Linux Networking & Security In Telugu. 
+https://www.youtube.com/watch?v=yiP_iBLoC-s 
+
+50 Linux Networking Commands You Need to learn RIGHT NOW // EP 1 
+https://www.youtube.com/watch?v=PCXek0zEVtc 
+
+M Prashant 
+How to Use Linux Netstat Command to Troubleshoot Network Issues | Netstat Command In Hindi 
+https://www.youtube.com/watch?v=YuTfG-mVRlA 
+
+Linux Log Monitoring | How to Do Log Analysis? | MPrashant 
+https://www.youtube.com/watch?v=tA-32BLjrFA 
+
+=====
+Scenario based linux based interview questions 
+
+Top 10 Scenario-Based Linux Interview Questions and Answers with Practical - Real Time 
+https://www.youtube.com/watch?v=38kqFGolu3c 
+====================
+youtube search - devops linux 
+
+54 videos - ThinkInspire - #devops #aws #linux 
+Overview Of AWS DevOps Training Day-1 | Thinkinspire IT | AWS DevOps Training | #devops #aws #linux
+https://www.youtube.com/watch?v=79VOcqB62hM&list=PLdRNkbtVPBrRFQQChK0Oi_U4_aXuSCp8T&index=1 
+
+36 videos - ThinkInspire - DevOps with AWS 
+*** DevOps with AWS Complete Course day-1 |DevOps with AWS Tutorials for Beginners | DevOps for Freshers 
+https://www.youtube.com/watch?v=LKp47RgSMZk&list=PLdRNkbtVPBrRZBpbvaziA2kJ5S1pMT8uw&index=1 
+
+Linux - Saidemy - 10 videos - https://www.youtube.com/watch?v=mzmqwtR8w-Q&list=PLJpjaORB7Btu1czyt6vCEdeEopYkoWxUO&index=1 
+
+==================== 
+82 videos - S3CloudHub - aws tutorial for beginners 
+https://www.youtube.com/playlist?list=PL_OdF9Z6GmVYWYd4Pn-UMEsg3XyjWv0Mf 
+
+youtube search - issues faced in docker container 
+
+youtube search - issues faced in jenkins 
+
+google search - issues faced in docker github, linkedin 
+=============================================== 
+
+youtube search - kubernetes real time issues 
+
+Real time issue on Kubernetes 
+https://www.youtube.com/playlist?list=PLLxffwjCPn9wjYekB3n44dE3YwsvaTNIA 
+
+Kubernetes Real time Scenerio Based Request & Solutions | Kubernetes Use Cases Examples | Kubernetes Real time Examples 
+https://www.youtube.com/playlist?list=PLYliwzTugkt0mP1yRDlILothC0OQv3jPj 
+
+"Kubernetes Administrator Scenario-Based Q&A", 50 SCENARIO-BASED Interview Q&A for "K8s Admins" !! 
+https://www.youtube.com/watch?v=0ewozIotR1U 
+
+Praveen Singampalli 
+Kubernetes Most asked Real time Troubleshooting Sceanrios||Basics to Advanced|Free DevOps Mentorship 
+https://www.youtube.com/watch?v=sNapm2U56MQ 
+
+==================================================
+youtube search - jenkins tutorial for devops engineers 
+
+45 videos - Jenkins Tutorial for Beginners | Jenkins Full Course | Jenkins 
+https://www.youtube.com/playlist?list=PLdsu0umqbb8PPKI5KQtWMeGv08d_aRmcp 
+
+12 videos - Jenkins Tutorial for Beginners, Jenkins Beginners Tutorial 
+https://www.youtube.com/playlist?list=PLYliwzTugkt1batVfDjBxl-Ze2W0xS7uT 
+
+48 videos - Gaurav Sharma - Jenkins For Beginners In Hindi - Gaurav Sharma 
+https://www.youtube.com/playlist?list=PL6XT0grm_Tfi21F8O0TvHmb78P2uEmhDq 
+
+Jenkins Pipeline Advance Tutorials
+AiOps & MLOps School
+https://www.youtube.com/playlist?list=PL0xeHY_ImQVXcCAu0PSdWKERIu4xLGo7N 
+
+6.52 hrs - #Jenkins Basics to Advanced In Telugu | Jenkins Realtime Setup 
+https://www.youtube.com/watch?v=ZFhuyAoh4XM 
+
+JENKINS Tutorial for beginners in TELUGU deep
+Technical Adda 
+https://www.youtube.com/playlist?list=PLGv2x6mk3qVEWqPNRGzZJZStQyM9zu9zt 
+
+========================
+youtube search - jenkins ci cd pipeline tutorial playlist or jenkins ci cd pipeline tutorial 
+
+Jenkins Course For Beginners 2024: Your Complete Guide from Basic to Advance Tutorial | MPrashant 
+https://www.youtube.com/watch?v=NVaP8qtLm6Q 
+
+==========================
+youtube search - kubernetes tutorials 
+
+10 hrs - Kubernetes Complete Course In 10 Hours ... A Complete Beginner Guide #kubernetes #devops @AlokKumar 
+https://www.youtube.com/watch?v=toLAU_QPF6o 
+
+CKA - 26 videos - Alok Kumar 
+https://www.youtube.com/playlist?list=PL6nVblW4NNATBBMFJNiDbYDvHSholElfz 
+
+46 videos - K8S Interview Q & A - Alok Kumar 
+https://www.youtube.com/playlist?list=PL6nVblW4NNARukmzXSLvv_kSkbvIcPeIY 
+
+4 hrs - Kubernetes 101 workshop - complete hands-on 
+https://www.youtube.com/watch?v=PN3VqbZqmD8 
+
+Certified Kubernetes Administrator Tutorials 2023
+DevOps Pro 
+https://www.youtube.com/playlist?list=PLY63ZQr2Y5BHkJJhwPjJuJ41CIyv3m7Ru 
+================= 
+Remote Jobs 
+Sanskar Goyal channel 
+
+podcast with Prerit Munjal - his channel https://www.youtube.com/@TechWithPrerit/playlists - gothrough K8S videos 
+How To Get a 2 Crore Remote Job in India | #103 The Sanskar Show 
+https://www.youtube.com/watch?v=wo4JJN6gKZs 
+
+tell me about K8S best practices - say in app workload management or in infra, HPA and VPA in infra 
+tell me about Docker best practices 
+
+Paras Thakur and Prerit Munjal 
+Complete and Ultimate DEVOPS Roadmap 2024🔥 : From BEGINNER to Pro 
+https://www.youtube.com/watch?v=6leCVAPj68M 
+*** observability(for all - Devops, SRE, Cloud engineers) - tracing, profiling, monitoring, logging 
+Gitlabs 
+K8S - how to secure pods, types of services, K8S network policies, internal pod to pod communication and monitoring 
+learn cloud fundamentals 
+What is the internal architecture of K8S and Docker? 
+flask 
+DSA and System Design 
+Behavioural round of interview 
+what is cohort? 
+Certification - Cloud practitioner(AWS) 
+*** MLOPS certifications - Devops certification, SysOps certification 
+what is CRDs in kubernetes? i.e. extend K8S (mostly GO lang is used) 
+Collab with cloud team and work on cost optimization things 
+documentaion about new features and rollout and other things 
+Be active on linkedin 
+producthunt - is a website 
+
+Paras Thakur and Shubham Agarwal - https://www.youtube.com/watch?v=pLTJM4Oe24Q 
+From NO Coding Experience to 50 LPA Offer 🔥in Industry ? Step by Step Roadmap 
+https://www.linkedin.com/in/shubsag20/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
+
+what is software engineering, what is engineering 
+SLA and SLO 
+
+
+google cloud partner directory 
+aws cloud partner directory - google search it - search the company - goto linkedin people section - msg all (VP of engineering, Director of Engineering, seniro recruiter, senior member, etc.) 
+youtube search - network chuck linux 
+
+Remote job - Pratham Kumar - https://www.youtube.com/watch?v=kR0AqvNBFG0 
+How He Got a 33 Lakhs Remote Job in College From India 
+cold emailing / cold DMs 
+learn something, do something, some tips/triks - post it on twitter/linkedin - can grow followers 
+
+*** Roadmap to Remote jobs - Savinder Puri 
+How I Earn Euros in India as a DevOps Evangelist | Roadmap to crack Remote DevOps Jobs in 2024 
+https://www.youtube.com/watch?v=dHEUphgXi4E 
+
+
+=================
+google search - devops startup companies 
+
+================= 
+GIT 
+TrainwithShubham with Mohit Dhamadhikari 
+Git Branching Strategies for DevOps Engineers || 15+ Years Exp Tech Architect 
+https://www.youtube.com/watch?v=JlVMLZp-SI0 
+
+Qs) after git init, why is master branch the default branch(you see master in braces), how do you share code among other developers when centralized system DVCS(github, bitbucket or any other provider) goes down, about merge conflicts, branching, how would you implement git branching strategy for your project 
+
+google search - vincent driessen git flow 
+https://nvie.com/posts/a-successful-git-branching-model/ 
+================= 
+
+Engr. Abhishek Roshan 
+Must practice linux videos 
+*** 69 Videos - Learn Corporate Linux Beginner to Expert Level Course with Realtime Scenario based
+https://www.youtube.com/playlist?list=PLPVaGLSxvigIh0YY45D1yWSlus5OVN_k6 
+
+very imp *** Linux 100+ Realtime Scenario based interview Question and Answers 
+https://www.youtube.com/playlist?list=PLPVaGLSxvigJfF9WWW0hD-yhMWq40ZY_G 
+
+32 issues - https://www.youtube.com/playlist?list=PLTahnMqvACVHLIqKRwvLwcPbOC-hzm9R1 
+
+Episode1 to Episode5 
+*** 50 Linux Networking Commands You Need to learn RIGHT NOW // EP 1 
+https://www.youtube.com/watch?v=PCXek0zEVtc&list=PLPVaGLSxvigIh0YY45D1yWSlus5OVN_k6&index=6 
+
+*AWS 300 + Realtime scenario based Interview questions and answers explained in detail | Part - 1 
+https://www.youtube.com/watch?v=QKfDtNqvLi4&list=PLPVaGLSxvigJd73hg33aXDtPqqZax35ni&index=1 
+
+GIT IQAs - 
+https://www.youtube.com/watch?v=bJ4GdHRRtzo&list=PLPVaGLSxvigI1YyiiR0f-C2fF2-ptf2-F&index=1 
+
+GIT - videos from #7 to #15 
+https://www.youtube.com/watch?v=jx4IhVFuEh0&list=PLPVaGLSxvigJPxb8RB3kFzNrn5SRpsHnW&index=7 
+
+What is Devops - about devops 
+*** https://www.youtube.com/watch?v=kNf0q6WnPmw&list=PLPVaGLSxvigJPxb8RB3kFzNrn5SRpsHnW&index=2 
+=================== 
+
+Jira tool -> epic -> story -> task 
+
+=================== 
+try to know about MLOPS related certificats 
+
+MLOPS 
+
+youtube search - mlops tutorial 
+
+Ayush Singh - MLOps Roadmap | Secure Top Jobs Instantly 
+https://www.youtube.com/watch?v=RebzueX3Ih8 
+
+youtube search - mlops roadmap 2024 
+
+Saikumar Reddy - MLOPS RoadMap 2024 | Skills Required To Become MLOPS Engineer | MLOPS Engineering RoadMap #mlops #1k 
+https://www.youtube.com/watch?v=lDPvB0AhxEc 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

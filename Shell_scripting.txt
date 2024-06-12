@@ -1,0 +1,162 @@
+youtube imp *** Shell scripting - https://www.youtube.com/watch?v=23hnZlhdV5s&list=PLPVaGLSxvigKa1SR8OWuevcFDJiDEiOcE&index=1 
+
+Shell scripting is primarily used to automate repetitive system tasks, such as backing up files, monitoring system resources, and managing user accounts 
+shell scripts are essential for tasks such as deploying, configuring, and monitoring systems, as well as automating routine processes like backups and log management 
+Automating the code compiling process 
+Running a program or creating a program environment 
+Completing batch
+Manipulating files 
+Linking existing programs together 
+Executing routine backups 
+Monitoring a system 
+
+backups - it would be very disastrous for us if we lose our data. Various parts of our backup like database backup, offsite backup, continuous backups etc all uses shell scripts that runs daily and some runs once a week. update dates - we do not use ntp so we rely on sh scripts to update the date due to firewall restrictions. log cleanup send emails
+
+=============
+ChatGPT - https://medium.com/@sreekanth.thummala/devops-zero-to-hero-day-15-mastering-shell-scripting-basics-to-advanced-fd50d11151a2 
+
+Real-time shell scripts are scripts written in shell scripting languages like Bash, which execute commands and operations in real-time as they are received, without significant delay. These scripts are often used for tasks that require immediate response or continuous monitoring of system resources, such as:
+
+System Monitoring: Real-time scripts can monitor system resources like CPU usage, memory usage, disk space, network traffic, etc., and trigger alerts or actions based on predefined thresholds.
+
+Log Monitoring: They can monitor log files in real-time for specific events or errors and take actions accordingly, such as sending notifications or performing corrective measures.
+
+Process Management: Real-time scripts can monitor running processes and perform actions based on their behavior, like restarting or terminating processes that consume excessive resources.
+
+Data Streaming: They can process and analyze data streams in real-time, such as sensor data, logs, or network traffic, and generate insights or trigger actions based on the analyzed data.
+
+Automation: Real-time scripts can automate tasks that require immediate response, such as deploying updates or configurations, responding to user requests, or interacting with external systems in real-time.
+
+Here's a simple example of a real-time Bash script that continuously monitors CPU usage:
+
+bash
+Copy code
+#!/bin/bash
+
+THRESHOLD=90
+
+while true; do
+    CPU_USAGE=$(top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print 100 - $1}')
+    
+    if [ $(echo "$CPU_USAGE >= $THRESHOLD" | bc) -eq 1 ]; then
+        echo "CPU usage is above threshold: $CPU_USAGE%"
+        # Add actions to take when threshold is exceeded, like sending an alert
+    fi
+    
+    sleep 5  # Adjust the interval as needed
+done
+This script continuously checks the CPU usage every 5 seconds and triggers an alert if it exceeds the specified threshold. You can modify and extend this script according to your specific requirements for real-time monitoring and automation tasks.
+======================================
+chmod +x /home/user1/myscript 
+
+cmd line args stored in builtin variables - $0, $1, $2, $3, etc... 
+
+read -p "enter the value: " value = to read args from user 
+
+expr cmd - to perform arithematic operations e.g. expr 8 + 11, expr 2 * 3, expr $a + $b 
+
+double paranthesis - $(( a + b )) - o/p of an expression 
+		     $(     ) - o/p of a cmd/script e.g. sum=$(add 2 4) 
+		     ${var_name} - accessing value of a variable through a cmd or a process 
+                     e.g. echo "your height is ${height} cms" 
+single quotes, double quotes and reverse quotes 
+bc cmd 
+
+conditional stmts - if, if-else 
+var name with ${} e.g. ${name} 
+for item in ${fruits} ; - without double quotes around ${fruits} 
+for item in "${fruits}" ; - with double quotes around "${fruits}" 
+
+control stmts - for, while, until loops, break, continue, sleep, exit  
+case stmt 
+exit status codes - 0 for success and > 0 for failure | exit code is stored in special built in variable $? 
+$? is also used to store value of return-stmt of a function 
+shellcheck - utility to check any errors in your shell scripts - yum install shellcheck 
+functions 
+$PATH 
+export 
+variables - prefixed with $ e.g. $sum, $mission_name 
+File test operators = -e, -d, -s, -x, -w, etc 
+PS1 - env variable that defines the format of the cmd prompt 
+readonly cmd - to define constants written in uppercase - e.g. readonly FILE="file.txt" 
+ARG_MAX - env var 
+shift cmd 
+Guard clause techniques - !(not), &&(and), ||(or) 
+Streams - >, 2>, < (0-stdin, 1-stdout, 2-stderr)  
+File descriptors - a unique no. is associated with a file 
+/dev/null 2>&2, 2>&1 
+&> - to redirect both stdout and stderr 
+<& - to redirect output to a file 
+<<< - to pass input to cmd/pgm/script through a single line 
+| - anonymous pipe 
+<> - named pipe 
+Pipefail - set -o pipefail -e, -u, etc options  (below the shebang line in scripts)  
+xargs cmd 
+eval cmd 
+getopts 
+printf %d, %f, \t, \n, \o, \x, \X 
+Expansions - Parameter and Brace expansions - Part one & two topics - #, ##, %, %% 
+Command substitution expansion 
+Subshells 
+Special shell variables - $* $? $# $- $_ $0 $@ $$ $!  
+Reserve exit codes - 0, 1, 2, 126, 127, 128, 130, etc... 
+IFS - Internal Field Separator - space, tab and new line 
+Arrays and Associative arrays - 'declare' cmd - 'insert' & 'remove' an element in an array/from array at specific index 
+sort arrays 
+unset cmd 
+shell built-in: mapfile | special shell variable:RANDOM 
+no-op cmd 
+comments 
+logging or logger cmd 
+awk with options - more built-in variables: NR, NF, FILENAME 
+sed - print, delete, insert, substitute 
+expect, send, spawn, interact, puts 
+
+=============================
+
+google search - real time shell scripting examples 
+https://tldp.org/HOWTO/VMS-to-Linux-HOWTO/examples.html 
+30 scripts - https://medium.com/@devopsshack/30-real-time-shell-scripts-usecases-with-example-codes-8c778368ba2d 
+https://www.linode.com/docs/guides/solving-real-world-problems-with-bash-scripts-a-tutorial/ 
+*** imp - go through this - https://linuxsimply.com/100-shell-script-examples/ 
+* https://devopscube.com/linux-shell-scripting-for-devops/ 
+udemy - real life examples - https://www.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples/?kw=shell+script+real&src=sac&couponCode=ACCAGE0923 
+https://github.com/ruanyf/simple-bash-scripts 
+100 examples - https://github.com/epety/100-shell-script-examples 
+
+Tutorials- 
+https://bash.cyberciti.biz/guide/Main_Page 
+
+
+https://www.youtube.com/playlist?list=PLqeGgqhFzalMK3kfpWUVvgDV535zS4oFa 
+https://www.youtube.com/watch?v=q9dv9AXRbIc&list=PL55uMtDpag8pgS5eg8RwRqMnLoJijQUEO&index=11 
+https://www.youtube.com/watch?v=x7dNujJOQLc&list=PL2qzCKTbjutJRM7K_hhNyvf8sfGCLklXw&index=5 
+Narendare VRT - https://www.youtube.com/watch?v=Zzd9tarN3Lg&list=PL2qzCKTbjutJRM7K_hhNyvf8sfGCLklXw&index=1 
+
+Top 25 shell scripting projects - https://www.youtube.com/playlist?list=PLnsGW1CrMg9zHqRR6B7crtNJ1teYIz5F7 
+
+====================== 
+Engr. Abhishek Roshan - Shell scripting playlist 
+18 videos - https://www.youtube.com/watch?v=23hnZlhdV5s&list=PLPVaGLSxvigKa1SR8OWuevcFDJiDEiOcE 
+https://www.youtube.com/watch?v=23hnZlhdV5s&list=PLPVaGLSxvigKa1SR8OWuevcFDJiDEiOcE&index=1
+
+2 videos - Linux 50+ Shell Script Realtime Scenario Based Interview Questions | Watch Now 
+https://www.youtube.com/watch?v=DNaOlpXoXVk&list=PLPVaGLSxvigKTLuyrJiaAmg1pu2cvfcTy 
+====================== 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

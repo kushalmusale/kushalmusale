@@ -1,0 +1,360 @@
+URL: https://dev.lisaagent.com/
+Username: kushal.nextxap@gmail.com 
+Pw: Role-Design@2024$ 
+
+pause, create the right thought and back into action 
+
+*********** list down issues faced w.r.t. each and every Devops tools e.g. issues faced with docker, issues faced with Jenkins, issues faced with K8S, issues faced in Shell scripting, Python scripting, etc and how did you fixed it 
+
+types of gateways - internet gateway, API gateway 
+
+==================
+https://automaintenanceagent.com/
+kushal@nextxap.con
+Awe-some@2024$ 
+https://kodekloud.com/courses/shell-scripts-for-beginners/ 
+https://kodekloud.com/courses/advanced-bash-scripting/
+https://github.com/kodekloudhub/shell-scripting-for-beginners-course 
+================
+how to create K8S ETCD backup? upwork - Piyush freelancer - https://www.youtube.com/watch?v=y8Ov2Rp61SI 
+================
+
+Questions to Tareeq 
+About current project, process, how it is implemented, your roles and responsibilites, daily tasks, challenges you faced, about agile(how agile is followed by Devops team or how agile is implemented for Devops team, what type of stories/tasks will be given to Devops team, etc.) 
+
+Project about microservices for resume - real time apps, which you have worked - how many microservices did that project had or how many microservices project you have worked in real time - in my resume, how many microservices project I can put and explain them 
+
+* please can you give and expain me few real time projects of yours, so that I can put in my resume - because for 4+ years exp. candidates, projects matters a lot for shortlisting and in interview starting questions will be about projects 
+
+What type of issues usually Devops engineer will get to work on - in which areas/tools - like in Jenkins, pipeline, K8S, build related or which areas - how to fix those issues/tasks 
+
+===============
+Understand what DevOps is and DevOps principles and practices 
+What is SDLC, Agile and Devops 
+KPI - creating work in your current role - e.g. find out any technical dent in your project if possible, drive them end to end - this triggers your leadership qualities
+What leadership looks - 
+Take initiatives in your current role(don't be content with what you are doing or whatever is assigned to you) - Find problems which are there in your existing setup and nobody is looking to it - bring it to your managers - work on it 
+Be a mentor people around you (juniors, teammates, or to anybody) - also be "Menti" - ask for mentorship from any seniors how to handle large scale projects or anything to learn and work on 
+Collaboration - you need to collaborate with different teams across multiple domains in your company 
+Take feedbacks - and work on it and improve yourself in all areas/aspects - this gives good impression about how serious you are about the work 
+Become what you seek (think of what you want to be - in which position you want to be in) 
+
+*Deliver high quality work always - this is the 1st point ***  
+Be visible - whatever work you are doing - even if you do small things, ensure that necessary communication goes out to espically to your managers, stakeholders and others to know what you are doing - try to be mentor to juniors or others 
+===
+Be sure that whatever you put in your resume you are 100% confident on that - be answerable to questions whatever you have put in your resume, put whatever you know, you are confident at
+===
+- System administration skills - very very strong fundamentals of Linux 
+- Bash scripting - single line basch script - given log file and filter out the unique IP addresses - learn to write one-liner bash scripts 
+- Programming - Python (Python scripting) 
+- Cloud platform - good knowledge of any cloud platform 
+- Troubleshooting and debugging skills - your approach - while opening a website you will get 502 error - how would you troubleshoot this error - understand the internal things - understand what's the root cause and where to look for the solution and how to fix it 
+-* knowledge of your current project on which your are working / current application your are supporting - in and out of that thing - how is your app deployed, how do we do CICD for that perticular app, how do you monitor that app, how would you do updates for that perticular app 
+
+- IaC - Terraform, CloudFormation 
+- Container technology - Docker 
+- Config management tool - Ansible 
+- K8S - how K8S is implemented, how it is implemented 
+- Monitoring and logging - ELK, Prometheus and Grafana 
+- Security - understand the complete life-cycle of app security 
+- Agile - to track the work - Devops/operations agile - follow the agile methodology - Sprints for operations/Devops team, stories(perticular task broken down into stories) for perticular release - agile methodology is implemented even for the operations team 
+
+- CICD - how you build pipelines 
+
+-* Focus on concepts like high-availability, fault tolerence, networking 
+- Understand the tech stack of your company, every company will have different tech stack 
+-* built infrastructure for AI/ML apps to run 
+
+How would i learn devops from scratch today | Career in DevOps - 
+- Learn the fundamentals, core principles and practices of DevOps 
+- Make/build a good Devops portfolio 
+
+Mistakes to avoid on the devops career path!
+============================================
+- Over-Automate - what to automate and what not to automate 
+- Do not bypass security group rules in your infrastructure just to get things done - e.g. just to get ssh access to a server or may be opening some port to hit the app on the browser 
+- Ignoring technical debts(decks) - please have a story/task for you in Jira or whatever ticketing system or whatever project management tool you are using - fix that technical debt story/task later or in next sprint or release to know that something you did and you have to fix 
+- Not communicating enough/properly(even though you have very good technical skills)- after doing a task(e.g. doing 10 hrs task in 2 hrs), inform to the stakeholders, managers or others 
+- A thirsy for trendy tools - try to work/play on any tool or technology 
+- Not keeping the documentation updated - about what you are doing, done, about to do, keep org. docs updated so that it will be helpful for other after me, new joiners, new team members 
+- Never be shy in for asking help
+
+
+Shell scripting examples websites
+=================================
+https://www.geeksforgeeks.org/shell-script-examples/ 
+https://www.macs.hw.ac.uk/~hwloidl/Courses/LinuxIntro/x864.html 
+https://www.hostinger.in/tutorials/bash-script-example 
+https://linuxsimply.com/100-shell-script-examples/ 
+https://learn.openwaterfoundation.org/owf-learn-linux-shell/useful-scripts/useful-scripts/ 
+https://medium.com/@sreekanth.thummala/devops-zero-to-hero-day-15-mastering-shell-scripting-basics-to-advanced-fd50d11151a2 
+
+https://tldp.org/HOWTO/VMS-to-Linux-HOWTO/useful-programs.html 
+https://github.com/PacktPublishing/A-Complete-Course-on-Linux-Bash-Shell-Scripting-with-Real-Life-Examples- 
+
+google search - real time shell scripting examples github 
+gothrough - 1. Tech ARKIT 2. Abhishek Veeramalla 
+Shell scripting - real time scenarios - Praveen Singampalli, TrainwithShubham, Devops Shack, Abhishek Veeramalla, others youtubers 
+
+*Real time scenarios shell scripting - github - 
+https://github.com/PacktPublishing/A-Complete-Course-on-Linux-Bash-Shell-Scripting-with-Real-Life-Examples-/tree/main/6.%20Real%20Life%20Scripts 
+https://github.com/NishkarshRaj/Automation-using-Shell-Scripts 
+100 shell scripts - https://github.com/epety/100-shell-script-examples 
+- Shell scripting interview QAs - 
+https://www.mygreatlearning.com/blog/shell-scripting-interview-questions/ 
+=============
+https://github.com/epety/100-shell-script-examples 
+https://github.com/ruanyf/simple-bash-scripts 
+https://github.com/NishkarshRaj/Automation-using-Shell-Scripts/tree/master/Automation%20Scenarios%20that%20save%20effort 
+https://github.com/techarkit/shell-scripting-tutorial 
+https://github.com/PacktPublishing/Complete-Bash-Shell-Scripting- 
+https://github.com/topics/shell-scripts 
+https://github.com/iam-veeramalla/shell-scripting-projects 
+
+youtube - 
+Cloud DevOps Guru channel - shell scripting - ***also look for linux networking video 
+https://www.youtube.com/watch?v=ldqmDIexAsA
+
+Day 1-Top 25 Shell Scripting Projects You Need To Know As Devops Engineer|Kick Start To Shell Script
+https://www.youtube.com/watch?v=sv6U1rDI3rw&list=PLnsGW1CrMg9zHqRR6B7crtNJ1teYIz5F7&index=1
+https://www.youtube.com/watch?v=sv6U1rDI3rw&list=PLnsGW1CrMg9zHqRR6B7crtNJ1teYIz5F7 
+Devops-Techstack channel
+google search - python devops scripts github
+============= 
+https://github.com/topics/python-for-devops 
+https://github.com/ppc64le/devops-automation 
+https://github.com/AbeTavarez/Python_DevOps_Scripts/blob/master/Automations/health_check_demo/cpu_usage.py 
+https://github.com/topics/python-for-devops 
+https://github.com/techiescamp/python-for-devops/tree/main/json 
+https://github.com/topics/devops-scripts 
+https://github.com/willowgreen/devops-scripts 
+https://github.com/Mrhudson69/python/blob/master/File%20Backup%20Script/backup_script.py 
+Devops Shack - Python for Devops - 
+https://www.youtube.com/playlist?list=PLAdTNzDIZj_-3uxvcoF5bsx_MEHXSFgN5 
+https://github.com/jaiswaladi246/Python-4-DevOps/blob/main/DAY-1.md 
+
+google search - python practice programs
+=============
+https://www.w3resource.com/python-exercises/string/ 
+https://www.geeksforgeeks.org/python-programming-examples/ 
+https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/ 
+https://pynative.com/python-exercises-with-solutions/ 
+https://pynative.com/python-basic-exercise-for-beginners/ 
+https://edabit.com/challenges/python3 
+https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt 
+https://www.programiz.com/python-programming/examples 
+
+================
+how to create K8S ETCD backup? upwork - Piyush freelancer - https://www.youtube.com/watch?v=y8Ov2Rp61SI 
+Devops projects - Tech Tutorials with Piyush - https://www.youtube.com/watch?v=s8q5B6DLH7s 
+================
+
+google search - devops projects 20 real time devops projects 
+https://www.youtube.com/results?search_query=devops+projects+20+real+time+devops+projects 
+================
+Mr. Devops - Real-time Kubernetes Complete DevOps Project Series - 
+https://www.youtube.com/playlist?list=PLLu1bCv5AByGUZUl4N2fhZdtHg0pd7G8E 
+TrainwithShubham - Projects - https://www.youtube.com/playlist?list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u 
+
+*Devops shack - The Ultimate CICD Corporate DevOps Pipeline Project | Real-Time DevOps Project 
+https://www.youtube.com/watch?v=NnkUGzaqqOc 
+***Devops shack - 10 Microservice DevOps Project Live CICD Pipeline | DevOps Shack 
+https://www.youtube.com/watch?v=utgEmyh5ZFo 
+
+Virtual TechBox - Real Time DevOps Project | Deploy to Kubernetes Using Jenkins | End to End DevOps Project | CICD 
+https://www.youtube.com/watch?v=e42hIYkvxoQ 
+Code with Gauri - Real-time End-to-end DevOps project: Deploying an EKS Cluster with Terraform and Jenkins 
+https://www.youtube.com/watch?v=wY8VFIAz_Og 
+Code with Gauri - CloudFormation playlist - 
+https://www.youtube.com/playlist?list=PLSV8CKMgPx1HcHc59u8xtW52GQSSGZo2z 
+DevOpsMaster - How to Deploy EKS Cluster on AWS Using Terraform ? | Automated Using Jenkins CICD Pipeline
+https://www.youtube.com/watch?v=q6tjkmX_DPM 
+10 Devops projects - Sen Devops - https://www.youtube.com/playlist?list=PLQJDjeJba9I0awA8t2SORtPaQZw8WIUd5 
+
+*must - LWPlabs playlist - Devops on AWS with infrastructure automation and python scripting 
+https://www.youtube.com/playlist?list=PLidSW-NZ2T88PfWJz5cYC-QaXn73NK5Dk 
+
+*must - LWPlabs - 30 project in Telugu 
+DevOps on AWS in Telugu | Real Time Projects | Project Based Learning | Resume Based Training
+https://www.youtube.com/watch?v=ahhXbYiYlZE&list=PLidSW-NZ2T8-XMLGruX-xchKfuWjflNoR 
+
+LWPlabs - Devops on AWS - 
+https://www.youtube.com/playlist?list=PLidSW-NZ2T8_VoGzzmt2Dbai1v3g1O5NN 
+
+*must LWPlabs - Python scripting for Devops - 
+https://www.youtube.com/playlist?list=PLidSW-NZ2T88VysDMS4KiM2YP9Bm0E_4f 
+
+LWPlabs - Shell scripting 
+https://www.youtube.com/watch?v=-yiwXWZYphg&list=PLidSW-NZ2T8_h1cptScZ0at9Wd-bKzKVG&index=1 
+
+*** google search - Python devops protjects 
+================
+Git and Github - TrainwithShubham - 
+live projects playlist - https://www.youtube.com/watch?v=AT1uxOLsCdk&list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u&index=2 
+================
+Devops shack - How To Explain A Complete DevOps Project In Interview | DevOps Projects 
+https://www.youtube.com/watch?v=Lpz1ua3n_bU 
+================
+Praveen Singampalli - 50 cmds videos- Part I & II - 
+Part I- https://www.youtube.com/watch?v=U2J8KRemwMo 
+Part II - https://www.youtube.com/watch?v=qeVIGqf6el0 
+
+*** 10 Best DevOps Projects in DevOps/Cloud for PRIMET1.0 - about each projects description - what each project is doing 
+https://www.youtube.com/watch?v=tkl-e3sksbo 
+Microservice architecture understanding is very very imp 
+
+how to debug 5XX, 4XX,3XX, 2XX, 1XX errors 
+
+coding challenge - 
+1). use shell / python scripting 
+end point (url e.g. could be DB url) will be given -> https://dummyjson.com/ (has dummy json data) -> hit this url and get item ID, item price and items stock in a tabular format 
+2). python, boto3 and aws combination - create an EC2 in aws 
+
+ArgoCD, terraform, K8S 
+==================
+google search - linux commands for devops engineer linkedin 
+
+https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/ 
+https://www.linkedin.com/pulse/linux-commands-commonly-used-devops-seshadri-kolla/ 
+https://www.mindboxtrainings.com/blog/top-50-linux-commands-for-devops/ 
+https://aws.plainenglish.io/linux-cheat-sheet-for-devops-engineers-a-comprehensive-guide-c93135455415 
+https://medium.com/@harshBlogs/linux-commands-for-a-devops-engineer-8e41b7442317 
+https://medium.com/@rahuldesharaj92/basic-linux-commands-used-by-devops-engineers-in-day-to-day-activities-29593253f66b 
+must - https://linuxsimply.com/cheat-sheets/linux-commands-for-devops/ 
+https://www.linkedin.com/pulse/linux-commands-tips-from-practical-experience-andrey-byhalenko-xn0if/ 
+https://www.linkedin.com/posts/sayed-afzal-khurseed-162726254_top-30-linux-commands-for-devops-in-the-activity-7190973001511677952-Yp15/ 
+
+Top 79 cmds - https://www.linkedin.com/posts/tamersaid_top-79-linux-commands-for-devops-enthusiasts-activity-7146171662256816128-UT4E/ 
+https://medium.com/@tamersaid2022/top-79-linux-commands-for-devops-enthusiasts-3322492f13be 
+
+10 most used cmds - youtube - Sen Devops - https://www.youtube.com/watch?v=CAuJMgihjO8 
+playlist - SenDevops - Linux cmds for Devops engineers - 
+https://www.youtube.com/playlist?list=PLQJDjeJba9I1ObHxuVnGmX1oqKL6aMbCE 
+
+https://www.geeksforgeeks.org/linux-command-in-devops/ 
+
+*LinuxSimply - for Linux cmds, Bash scripting, etc 
+
+*** also google search linux cmds section-wise - like networking related cmds, files related cmds, packages related cmds, system related cmds, disk and volume related cmds, etc.
+================
+Have a good Linkedin profile, have more connections(have relevant people in your connections list), optimize your linkedin profile 
+How did I start getting interview calls everyday using Naukri & LinkedIn || - 
+Shakra Shamim - https://www.youtube.com/watch?v=KfVkKtncLYE 
+
+Recession - HOW TO GET INTERVIEW CALLS FROM NAUKRI.COM | I GOT 10-12 CALLS DAILY NAUKRI.COM | NAUKRI.COM TIPS 
+https://www.youtube.com/watch?v=_50cOAxxg8o 
+
+How to get interview calls from NAUKARI. COM | get 20-25 calls daily ( fresher/ experienced) 
+https://www.youtube.com/watch?v=apRpAqyRDrA 
+
+HOW TO GET INTERVIEW CALLS FROM NAUKRI.COM | I GOT 10-12 CALLS DAILY NAUKRI.COM | NAUKRI.COM TIPS 
+https://www.youtube.com/watch?v=_50cOAxxg8o 
+
+================ 
+DevOps Self Introduction || Roles and Responsibilities || KK FUNDA || PRASANTH REDDY
+https://www.youtube.com/watch?v=2XvNKLHpsbA 
+https://www.youtube.com/watch?v=jiv1uXyx3OY 
+
+google search this - Day to Day Activities of a DevOps Engineer | What Keeps DevOps Engineers Busy ??? 
+
+Daily tasks of a Devops engineer 
+
+Abhishek Veeramalla - 
+Day to Day Activities of a DevOps Engineer | What Keeps DevOps Engineers Busy ???- 
+https://www.youtube.com/watch?v=yF308D6HI1A
+*** Understand how DevOps fits in SDLC or how Devops helps in SDLC - Free Devops course - Day-2 
+Watch Project mgmt demo using Jira video - by Abhishek Veeramalla - Understand SDLC and Project management (basic understanding about Agile, Scrum, kanban, etc) 
+
+you might have some 10 to 15 K8S clusters in your org 
+
+Devops Shack - 
+Real-Time Corporate Day To Day Activities Of DevOps Engineer | DevOps Interview Preparation 
+https://www.youtube.com/watch?v=lBaK6Fq1QJY&t=161s 
+
+https://www.youtube.com/watch?v=uk_wNUPcc8U 
+
+Abhishek Veeramalla - https://www.youtube.com/watch?v=Kd8oC6CCN2g 
+What to learn to become a DevOps Engineer ? | Simple Step By Step DevOps Roadmap 
+Step #1
+- Understand what is DevOps 
+- DevOps lifecycle 
+- What DevOps Engineer does on a day to day basis? i.e. the role of a DevOps Engineer 
+- *How DevOps Engineer fits into the SDLC 
+Step #2
+- Understand what is virtualization, how to create a virtual m/c, what is Linux? 
+- Learn how to connect to a virtual m/c on any public cloud platform 
+Step #3 
+- Shell cmds and basics of Shell scripting e.g. shell script to fetch the info about you virtual m/c such as CPU, RAM, usage of CPU, memory, etc 
+Step #4 
+- Version control sytem - GIT and GITHUB 
+Step #5 
+- Ansible 
+Step #6 
+- Understand the concept of CICD 
+Step #7 
+- Containers 
+Step #8 
+- K8S 
+Step #9 
+- Terraform 
+Step #10 
+- Cloud provider 
+
+Firt priority is Shell scripting - because most of the things/tasks are achieved by Shell scripting 
+Next is Python - why Python - for making some API calls, for Serverless programming, etc 
+
+Groovy scripting 
+================================
+
+- google search, linkedin and github - devops end to end deployment project 
+what is devops end to end deployment - steps/tasks ? 
+- google search, linkedin and github - devops interview questions 
+gothrough Devops interview questions from youtube channels - Praveen Singampalli, TrainwithShubham, Devops Shack, Abhishek Veeramalla, others youtubers 
+
+======
+
+SQDNs in cloud ?
+End to end CI CD pipeline implementation - integrate most of the devops tools 
+monitor K8S cluster using Prometheus 
+Basten host 
+have you built Java, C# .net, NodeJS, Python, Go, PHP etc based applications 
+what is the good practice to connect to EKS cluster through Jenkins 
+What are the best practices(any 5) while creating a pipeline 
+
+=======
+
+Devops mock interviews on youtube - youtube search - devops interview for experienced - gothrough 1 interview daily  
+================================= 
+Cloud and Beyond - Channel - must watch - has many interview videos 
+- https://www.youtube.com/watch?v=8i2rg2daVtU 
+
+LogicOps Lab - https://www.youtube.com/playlist?list=PL8WTXLSrtyWpC_2KvHF49VkbtIVOcd8Gl 
+
+==========
+Python for Devops - TechYes Public Learning Channel 
+https://www.youtube.com/watch?v=ZtX_4-P2evA&list=PLYYsGDln_GC8eh274g4qkNxmmaxoS0Tnk&index=1 
+==========
+
+*** google search - When to use xyz cmd, what is the use of xyz cmd as a Devops engineer? 
+e.g. when to use soft link and hard link cmds, what is its use 
+
+================
+git tutorial playlist 
+Code House - https://www.youtube.com/playlist?list=PLzdlNxYnNoafZq1AKcqiGvj0gkzrjmgq7 
+Leela web dev - https://www.youtube.com/playlist?list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX 
+
+======================================
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
