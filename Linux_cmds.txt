@@ -221,6 +221,7 @@ System information related cmds
 uname - to see OS name or cat /etc/os-release 
 lsb-release -a 
 last reboot 
+host 
 hostname 
 hostnamectl 
 arch 
@@ -254,15 +255,17 @@ tee - Redirect output to multiple files or commands
 Network info related cmds 
 ========================= 
 what is listening and what is a port 
-ip a, ip -c addr 
+ip a, ip -c addr, ip address show 
 iplink 
 iproute 
 route 
 traceroute vs tracepath 
 iptable (has many options for port-redirection rules)
+iptraf -ng  
 nft 
 nmtui 
 ping 
+fping 
 mtr 
 whois domainname (whois google.com) 
 curl 
@@ -271,6 +274,9 @@ netstat
 ifconfig 
 inconfig 
 iwconfig 
+iw 
+iftop 
+ifstat 
 ftp 
 tcpdump  
 netplan (/etc/netplan/...) 
@@ -295,6 +301,9 @@ fail2ban
 ifup 
 ifdown 
 ifplugstatus 
+ethtool 
+iperf 
+nload 
 
 Chaining and piping cmds 
 ======================== 
