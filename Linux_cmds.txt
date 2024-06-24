@@ -40,6 +40,9 @@ google search, youtube search -
 What a devops engineer can contribute to opensource 
 how a devops engineer can contribute to opensource 
 
+google search - what are opensource projects for devops engineers 
+https://www.reddit.com/r/golang/comments/15hpj98/open_source_go_and_devops_projects_to_contribute/ 
+
 How can you contribute to open-source DevOps tools for Cloud Computing? 
 https://www.linkedin.com/advice/0/how-can-you-contribute-open-source-devops-tools-msdxf  
 
